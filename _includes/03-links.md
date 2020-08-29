@@ -1,1 +1,1 @@
-@squizzles
+[GitHub](http://github.com)
